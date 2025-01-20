@@ -6,7 +6,7 @@
     "email": "maya26@hawaii.edu",
     "phone": "808-859-9135",
     "website": "https://mayabuchanan27.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaiʻi. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mayabuchanan27", "url": "https://github.com/mayabuchanan27" },
@@ -14,11 +14,9 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "AI (Indigenous)" },
+    { "name": "Programming and Software Development" },
+    { "name": "Graphics Programming" }
   ],
   "skills": [
     {
@@ -32,14 +30,15 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaiʻi, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
       "startDate": "2023-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": "ICS 111, ICS 141, ICS 211, ICS 212, ICS 241, ICS 314" [
       ]
     }
+      
   ],
   "work": [
     {
