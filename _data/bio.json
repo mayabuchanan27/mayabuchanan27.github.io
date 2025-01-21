@@ -68,15 +68,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Ka Papa Loʻi O Kānewai",
+      "website": "https://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
+      "position": "",
+      "startDate": "2019",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Worked together with the community to maintain and restore the loʻi",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Cleaned the kalo to be prepared for eating",
+        "Maintain the loʻi patches"
       ]
     },
     {
