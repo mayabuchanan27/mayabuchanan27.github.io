@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/book.png
+image: img/book.jpg
 title: "Binary Search Tree for String Analysis"
 date: 2024
 published: true
