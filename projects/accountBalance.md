@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/file.jpg
+image: img/balance.jpg
 title: "Account Balance Calculator Using An Interactive User Interface"
 date: 2024
 published: true
