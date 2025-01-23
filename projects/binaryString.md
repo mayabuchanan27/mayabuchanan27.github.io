@@ -17,16 +17,67 @@ This program had to be done in a week in [Eclipse](https://eclipseide.org/) usin
 Below are examples of key recursive methods that demonstrate the functionality of the program:
 
 <b>Adding Nodes:</b> A method that shows how the program recursively builds the binary search tree by traversing the tree to find the correct position for a new node or increment the value if the key already exists:
+```cpp
+// recursive method
+private BinaryNode addKey(String key, BinaryNode node) {
+  // convert string to lowercase
+  String keyLower = key.toLowerCase();
 
-<img class="img-fluid" src="../img/addKey.png" width = "800" height = "450">
+  // new node is created when node is null (base case)
+  if (node == null) {
+    return new BinaryNode(key);
+  }
+  // compare lowercase key with current node (converted to lowercase)
+  int cmp = keyLower.compareTo(node.key.toLowerCase());
+
+  // if smaller go left
+  if (cmp < 0) {
+    node.left = addKey(key, node.left);
+  // if bigger go right
+  } else if (cmp > 0) {
+      node.right = addKey(key, node.right);
+  // if equal, it is in the tree, increment count
+  } else {
+    node.value++;
+  }
+  return node;
+}
 
 <b>Retrieving Key:</b> A method how recursion is used to traverse the tree to retrieve a specific key:
+```cpp
+// recursive method
+private long findOccurrences(String key, BinaryNode node) {
+  // key not found when node is null (base case)
+  if (node == null) {
+    return 0;
+  }
 
-<img class="img-fluid" src="../img/retrieve.png" width = "800" height = "435">
+  // compare key with key of current node
+  int cmp = key.compareTo(node.key.toLowerCase());
 
+  // if key is less than node's key, search left subtree
+  if (cmp < 0) {
+    return findOccurrences(key, node.left);
+  // if key is greater than node's key, search right subtree
+  } else if (cmp > 0) {
+    return findOccurrences(key, node.right);
+  // if keys are equal, return occurences count of the current node
+  } else {
+    return node.value;
+  }
+}
+```
 <b>Calculating Height:</b> A method that shows how recursion can be used to compare paths in a tree by calculating its the height:
+```cpp
+// recursive method
+private int calculateHeight(BinaryNode node) {
+  // tree is empty if node is null, return 0
+  if (node == null) {
+    return 0;
+  }
 
-<img class="img-fluid" src="../img/count.png" width = "800" height = "250">
-
-
-
+  // calculate height of left and right subtrees
+  // return greater height and add 1 for current node level
+  return 1 + Math.max(calculateHeight(node.left), calculateHeight(node.right));
+}
+```
