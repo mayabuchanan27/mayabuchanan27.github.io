@@ -17,12 +17,15 @@ This program had to be done in a week in [Eclipse](https://eclipseide.org/) usin
 Below are examples of key recursive methods that demonstrate the functionality of the program:
 
 <b>Adding Nodes:</b> A method that shows how the program recursively builds the binary search tree by traversing the tree to find the correct position for a new node or increment the value if the key already exists:
+
 <img class="img-fluid" src="../img/addKey.png" width = "700" height = "450">
 
 <b>Retrieving Key:</b> A method how recursion is used to traverse the tree to retrieve a specific key:
+
 <img class="img-fluid" src="../img/retrieve.png" width = "700" height = "425">
 
 <b>Calculating Height:</b> A method that shows how recursion can be used to compare paths in a tree by calculating its the height:
+
 <img class="img-fluid" src="../img/count.png" width = "700" height = "200">
 
 
