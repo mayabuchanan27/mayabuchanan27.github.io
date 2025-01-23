@@ -1,59 +1,22 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: img/file.jpg
+title: "Account Balance Calculator Using An Interactive User Interface"
+date: 2024
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Java
+  - Java Swing
+summary: "Java Swing application that calculates and displays the monthly account balance over a 12-month period."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<div class="text-center p-4">
+  <img width="500px" src="../img/account.png" class="img-thumbnail" >
+</div>
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+I developed a Java Swing account balance calculator in ICS 211, Spring 2024. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+I developed an account balance calculator in ICS 211, Spring 2024. This program uses Java Swing framework to create a user friendly GUI in order to calculate and display the monthly account balance over a 12-month period.
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+The user is able to input their own initial amount, yearly interest rate, and monthly payment. Through basic calculations, the user is able to see their account balance throughout the year. 
