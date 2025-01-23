@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: img/calc.jpg
 title: "Stack-Based Calculator"
 date: 2024
 published: true
