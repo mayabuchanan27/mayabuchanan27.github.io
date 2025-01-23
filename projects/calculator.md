@@ -16,4 +16,24 @@ This program had to be done in a week in [Eclipse](https://eclipseide.org/) usin
 
 Here is an example code of how the Push and Pop methods were used the Stacked-Based Calculator:
 
-<img class="img-fluid" src="../img/calcCode.png" width = "800" height = "350">
+```cpp
+// iterate string arguments
+		for (String arg : args) {
+			// try to parse the argument as long
+			// push it onto the stack
+			try {
+				long number = Long.parseLong(arg);
+				stack.push(number);
+			} catch (NumberFormatException e) {
+				// check if there are fewer than 2 numbers on if the argument is not a number
+				if (stack.size() < 2) {
+					// append "syntax error" to the result
+					result.append("syntax error\n");
+					// continue to the next argument
+					continue;
+				}
+
+				// pop the top two numbers from the stack to apply the operator
+				long secondOperand = stack.pop();
+				long firstOperand = stack.pop();
+```
