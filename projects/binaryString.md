@@ -15,5 +15,5 @@ I developed this string analysis program that uses a <b>binary search tree</b> a
 This program had to be done in a week in [Eclipse](https://eclipseide.org/) using Java. The most challenging part of this program was figuring out how to traverse about in the binary search tree. Despite the challenges I faced while writing this program, I gained an understanding of how to traverse a binary search tree using recursive methods, such as in-order traversal to retrieve all unique words in sorted order and other methods for searching, counting, and calculating tree properties. 
 
 Here is a method that shows how the program recursively builds the binary search tree by traversing the tree to find the correct position for a new node or increment the value if the key already exists:
-<img class="img-fluid" src="../img/addKey.png" width = "500" height = "500">
+<img class="img-fluid" src="../img/addKey.png" width = "700" height = "500">
 
