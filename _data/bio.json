@@ -63,7 +63,7 @@
       "position": "Volunteer",
       "startDate": "2019",
       "endDate": "Present",
-      "summary": "Worked together with the community to maintain and restore the loʻi",
+      "summary": "Worked together with the community to maintain and restore the loʻi.",
     },
     {
       "organization": "ʻIolani School Track",
@@ -73,20 +73,16 @@
       "endDate": "",
       "summary": "Coaching Intermediate, JV, and Varsity track",
       "highlights": [
-        "Coached first-place winning Girls team for ILH champions"
+        "Coached first-place winning Girls team for ILH champions."
       ]
     }
   ],
   "awards": [
-     {
-      "title": "University of Hawaiʻi",
-      "website": "",
-      "position": "Dean's List",
-      "startDate": [
-        "2023-08-01", "2024-08-01"
-      ],
-      "endDate": "",
-      "summary": "Earn a semester GPA of 3.5 or higher based on 12 credits or more"
+    {
+      "title": "Dean's List",
+      "date": "Fall 2023", "Fall 2024",
+      "awarder": "University of Hawaiʻi",
+      "summary": "Earn a semester GPA of 3.5 or higher based on 12 credits or more."
     }
   ],
   "references": [
