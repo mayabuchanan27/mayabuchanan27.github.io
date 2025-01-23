@@ -16,4 +16,4 @@ This program had to be done in a week in [Eclipse](https://eclipseide.org/) usin
 
 Here is an example code of how the Push and Pop methods were used the Stacked-Based Calculator:
 
-<img class="img-fluid" src="../img/calcCode.png" width = "500" height = "500">
+<img class="img-fluid" src="../img/calcCode.png" width = "800" height = "350">
