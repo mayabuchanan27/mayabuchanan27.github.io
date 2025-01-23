@@ -23,7 +23,7 @@ Below are examples of key recursive methods that demonstrate the functionality o
 <img class="img-fluid" src="../img/retrieve.png" width = "700" height = "450">
 
 <b>Calculating Height:</b> A method that shows how recursion can be used to compare paths in a tree by calculating its the height:
-<img class="img-fluid" src="../img/count.png" width = "700" height = "450">
+<img class="img-fluid" src="../img/count.png" width = "700" height = "200">
 
 
 
