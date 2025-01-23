@@ -6,7 +6,7 @@
     "email": "maya26@hawaii.edu",
     "phone": "808-859-9135",
     "website": "https://mayabuchanan27.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaiʻi. I expect to graduate in Spring, 2027.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and a Minor in ʻŌlelo Hawaiʻi in Hawai‘inuiākea School of Hawaiian Knowledge at the University of Hawaiʻi. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mayabuchanan27", "url": "https://github.com/mayabuchanan27" },
@@ -21,11 +21,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Python", "TypeScript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -35,7 +35,13 @@
       "studyType": "B.S.",
       "startDate": "2023-09-01",
       "endDate": "Present",
-      "courses": "ICS 111, ICS 141, ICS 211, ICS 212, ICS 241, ICS 314", [
+      "courses": [ 
+        "ICS 111", 
+        "ICS 141", 
+        "ICS 211", 
+        "ICS 212", 
+        "ICS 241", 
+        "ICS 314" 
       ]
     }
       
@@ -48,10 +54,6 @@
       "startDate": "2024-01-08",
       "endDate": "Present",
       "summary": "Developed and taught a Hula curriculum for 2nd-5th grade after school program.",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
     },
   ],
   "volunteer": [
@@ -62,10 +64,6 @@
       "startDate": "2019",
       "endDate": "Present",
       "summary": "Worked together with the community to maintain and restore the loʻi",
-      "highlights": [
-        "Cleaned the kalo to be prepared for eating",
-        "Kuʻi the loʻi patches and pick off excess weeds"
-      ]
     },
     {
       "organization": "ʻIolani School Track",
@@ -73,15 +71,20 @@
       "position": "Assistant Sprints Coach",
       "startDate": "2024-02-12",
       "endDate": "",
-      "summary": "",
+      "summary": "Coaching Intermediate, JV, and Varsity track",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Coached first-place winning Girls team for ILH champions"
       ]
     }
   ],
-  
+  "awards": [
+   {
+     "organization": "University of Hawaiʻi",
+     "position": "Deanʻs List",
+     "startDate": "Fall 2023, Fall 2024",
+     "summary": "Earn a semester GPA of 3.5 or higher based on 12 credits or more"
+   }  
+  ],
   "references": [
     {
       "name": "Available upon request"
