@@ -9,7 +9,7 @@ labels:
   - TypeScript
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/typeScriptLogo.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/typeScriptLogo.png">
 
 ## Being a Beginner to TypeScript
 Learning Typescript has been both challenging and insightful so far. Coming from previous courses that were heavily based in Java, Javascript or C, getting to understand TypeScript was not easy at first. Since this language is new to me, I would often mix it up with Java or JavaScript when I was practicing, which made TypeScript even more confusing. However, after getting to learn the basics and practicing in the TypeScript Playground, I have grown a little bit more comfortable with its syntax and features. I find that the TypeScript error messages clearly helped me understand what errors I encountered, which provided me with insights into how to fix my code.
