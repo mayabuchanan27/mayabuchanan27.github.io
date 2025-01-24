@@ -16,6 +16,8 @@ Learning Typescript has been both challenging and insightful so far. Coming from
 
 From this class, I hope to continue to develop a foundation in TypeScript so that I can further my knowledge and understanding in software engineering. Getting to understand TypeScript will also help me with projects in this class and future projects in my career. 
 
+
+
 <img width="300px" class="rounded float-start pe-4" src="../img/WOD.png">
 
 ## The Pressure of WODs
