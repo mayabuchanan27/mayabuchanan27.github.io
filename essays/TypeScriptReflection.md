@@ -18,7 +18,7 @@ Despite being new to Typescript, I intend to have a growth mindset and learn fro
 
 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/WOD.png">
+<img width="225" class="rounded float-start pe-4" src="../img/WOD.png">
 
 ## The Pressure of WODs
 Athletic software engineering and the WODs (workout of the day) are also very new to me. I am very used to taking my time with assignments by completing them in sections over the course of a week. However, these timed exercises have taught me to push myself to solve problems somewhat quickly while maintaining code quality. Although the time for the WODs are very limited, the WODs are incredibly helpful in identifying the material that I have a grasp on and the material that I need to improve on. Ultimately, I hope to gain more experience from these WODs since it simulates how developers are able to work under an insane amount of pressure. 
