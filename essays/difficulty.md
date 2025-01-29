@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Engaging in Software Development"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-28
-published: false
+published: true
 labels:
   - Software Engineering
 ---
