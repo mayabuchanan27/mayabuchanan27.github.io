@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Engaging in Software Development"
+title: "Engaging in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-22
 published: true
@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="500" class="rounded d-block mx-auto" src="../img/quote.png">
+<img width="800" class="rounded d-block mx-auto" src="../img/quote.png">
 
 
 ## Inspiration and My Challenges in Computer Science
