@@ -10,10 +10,10 @@ labels:
 ---
 
 <div align="center">
-  <img src="SEquote.png">
+  <img src="quote.png">
 </div>
 
-<img width="300" class="rounded float-start pe-4" src="../img/SEquote.png">
+<img width="300" class="rounded float-start pe-4" src="../img/quote.png">
 
 
 ## Inspiration and My Challenges in Computer Science
