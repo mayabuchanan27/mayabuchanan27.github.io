@@ -9,9 +9,11 @@ labels:
   - Software Engineering
 ---
 
-<div style="text-align: center;">
-  <img src="SEquote.png" alt="Your Image" width="400">
+<div align="center">
+  <img src="SEquote.png">
 </div>
+
+<img width="300" class="rounded float-start pe-4" src="../img/SEquote.png">
 
 
 ## Inspiration and My Challenges in Computer Science
