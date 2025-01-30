@@ -54,19 +54,11 @@
       "startDate": "2024-01-08",
       "endDate": "Present",
       "summary": [
-        "Developed and taught a Hula curriculum for 2nd-5th grade after school program and costume assistant for 7th-12th Hula Wāhine classes.",
+        "Developing and teaching a Hula curriculum for 2nd-5th grade after school program and costume manager for 7th-12th Hula Wāhine classes.",
       ]
     },
   ],
   "volunteer": [
-    {
-      "organization": "Ka Papa Loʻi O Kānewai",
-      "website": "https://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
-      "position": "Volunteer",
-      "startDate": "2019",
-      "endDate": "Present",
-      "summary": "Worked together with the community to maintain and restore the loʻi.",
-    },
     {
       "organization": "ʻIolani School Track",
       "website": "",
@@ -76,6 +68,14 @@
       "summary": "Coaching Intermediate, JV, and Varsity track",
       "highlights": [
         "Coached first-place winning Girls team for ILH champions."
+    },
+    {
+      "organization": "Ka Papa Loʻi O Kānewai",
+      "website": "https://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
+      "position": "Volunteer",
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "Worked together with the community to maintain and restore the loʻi.",
       ]
     }
   ],
