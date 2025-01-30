@@ -10,7 +10,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-  <img src="quote.png" alt="Your Image" width="400">
+  <img src="SEquote.png" alt="Your Image" width="400">
 </div>
 
 
