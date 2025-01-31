@@ -21,36 +21,23 @@ Stack Overflow is one of the largest and most active programming communities, wh
 
 ## What’s a smart question?
 
-An example of a “smart” question would be the following case, where a user is asking how to align their div elements to be centered using CSS. 
+An example of a “smart” question would be the following case, where a user is asking for a simple way to print an array in Java after he/she ecounters a problem in printing their array. 
 
+Q:[What's the simplest way to print a Java array?](https://stackoverflow.com/questions/409784/whats-the-simplest-way-to-print-a-java-array)
 ```
-Q: python date of the previous month
+In Java, arrays don't override toString(), so if you try to print one directly, you get the className + '@' + the hex of the hashCode of the array, as defined by Object.toString():
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+int[] intArray = new int[] {1, 2, 3, 4, 5};
+System.out.println(intArray); // Prints something like '[I@3343c8b3'
+But usually, we'd actually want something more like [1, 2, 3, 4, 5]. What's the simplest way of doing that? Here are some example inputs and outputs:
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
+// Array of primitives:
+int[] intArray = new int[] {1, 2, 3, 4, 5};
+// Output: [1, 2, 3, 4, 5]
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
+// Array of object references:
+String[] strArray = new String[] {"John", "Mary", "Bob"};
+// Output: [John, Mary, Bob]
 ```
 
 While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
