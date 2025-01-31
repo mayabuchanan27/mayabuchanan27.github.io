@@ -11,9 +11,9 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/questions.jpg">
 
-## Is there such thing as a stupid question?
+## What's the Point in Asking?
 
 The best way for software engineers to gain experience is to practice problem solving. This can be done by debugging code, engaging in new frameworks, or simply finding online coding challenges. However, no matter how skilled an engineer is, they will most likely encounter frustrating problems that require online help. It is quite common for engineers to turn to online resources, such as Stackoverflow, when an issue is presented to them. 
 
@@ -41,7 +41,7 @@ String[] strArray = new String[] {"John", "Mary", "Bob"};
 ```
 This demonstrates a "smart" question since the user is able to clearly provide a question, which includes example code that brought upon the issue. Additionally, they demonstrate prior understanding by acknowledging that Java does not override toString() for arrays and specifically ask for the simplest solution rather than a less direct solution. This structured example approach makes it easy for the community to provide straightforward and helpful answers.
 
-## The foolproof way to get ignored.
+## Avoid Being Unclear
 An example of an unclear question would be the following case, where the user is asking for help to properly display text while using the RoundedBorder in a Java Swing program.
 
 Q: [Test is not displaying in button created using JButton in Java swing](https://stackoverflow.com/questions/79401775/test-is-not-displaying-in-button-created-using-jbutton-in-java-swing)
@@ -51,7 +51,7 @@ When I add a RoudedBoder class to add curved Boder in button in java swing the t
 I need to make the text inside the button visible without removing RoundedBorder
 ```
 
-This demonstrates a poor question due to the user's vague description of their problem. Furthermore, the heading for this post is not a question, rather it is the problem that the user is struggling with. Besides the poor grammar and no clear question being asked, the user also fails to provide code, which results in the community not being able to examine the issue properly to give feedback. Without making improvements, this user's post will probably not receive answers due to the lack of information.  
+This demonstrates a unclear question due to the user's vague description of their problem. Furthermore, the heading for this post is not a question, rather it is the problem that the user is struggling with. Besides the poor grammar and no clear question being asked, the user also fails to provide code, which results in the community not being able to examine the issue properly to give feedback. Without making improvements, this user's post will probably not receive answers due to the lack of information.  
 
 ## Conclusion
-
+The quality of a question often determines the quality of the answer it receives. A well-structured question with clear context, example code, and a specific goal is the type of questions we want to ask in order to get a helpful response. Whereas short questions with unclear information will most likely not be answered. By taking the time to ask smart questions on websites, like Stack Overflow, developers can get better answers to acheive their goal of learning more effectively.
