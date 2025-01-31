@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "How Smart Questions Lead to Better Answers"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
 published: true
@@ -41,7 +41,7 @@ String[] strArray = new String[] {"John", "Mary", "Bob"};
 ```
 This demonstrates a "smart" question since the user is able to clearly provide a question, which includes example code that brought upon the issue. Additionally, they demonstrate prior understanding by acknowledging that Java does not override toString() for arrays and specifically ask for the simplest solution rather than a less direct solution. This structured example approach makes it easy for the community to provide straightforward and helpful answers.
 
-## Avoid Being Unclear
+## What Should I Avoid Asking?
 An example of an unclear question would be the following case, where the user is asking for help to properly display text while using the RoundedBorder in a Java Swing program.
 
 Q: [Test is not displaying in button created using JButton in Java swing](https://stackoverflow.com/questions/79401775/test-is-not-displaying-in-button-created-using-jbutton-in-java-swing)
