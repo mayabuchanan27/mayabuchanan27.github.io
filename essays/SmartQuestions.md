@@ -21,9 +21,7 @@ Stack Overflow is one of the largest and most active programming communities, wh
 
 ## What’s a smart question?
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
-
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+An example of a “smart” question would be the following case, where a user is asking how to align their div elements to be centered using CSS. 
 
 ```
 Q: python date of the previous month
