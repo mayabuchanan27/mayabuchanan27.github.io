@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/questions.jpg">
+<img width="300px" class="rounded d-block mx-auto" src="../img/questions.jpg">
 
 ## What's the Point in Asking?
 
