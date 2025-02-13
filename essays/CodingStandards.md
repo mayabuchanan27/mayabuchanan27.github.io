@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="500" class="rounded d-block mx-auto" src="../img/eslint_image.png">
+<img width="650" height="650" class="rounded d-block mx-auto" src="../img/eslint_image.png">
 
 ## The Balance of Functionality and Readability 
 Every time I worked on a program, my main goal was to get the code to work. When frustration was mixed in with the difficult challenges I would run into, my code did not look as efficient as it should have. I would sometimes get lazy and fix all of the incorrect formatting after I compile and have a running code. Unfortunately, this means that I cared more about functionality of the program even if it was a little unreadable. However, getting into the habit of using coding standards has allowed me to realize the importance of having a clean and organized code. 
