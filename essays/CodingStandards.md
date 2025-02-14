@@ -13,7 +13,7 @@ labels:
 <img width="670" height="300" class="rounded float-start pe-4" src="../img/eslint_image.png">
 
 ## The Balance of Functionality and Readability 
-Every time I worked on a program, my main goal was to get the code to work. When frustration was mixed in with the difficult challenges I would run into, my code did not look as efficient as it should have. I would sometimes get lazy and fix all of the incorrect formatting after I compile and have a running code. Unfortunately, this means that I cared more about functionality of the program even if it was a little unreadable. However, getting into the habit of using coding standards has allowed me to realize the importance of having a clean and organized code. 
+Every time I worked on a program, my main goal was to get the code to work through trials and errors. When frustration was mixed in with the difficult challenges I would run into, my code did not look as efficient as it should have. For example, some indents never aligned with each other, spaces werenʻt use to seperate functions, unecessary spaces would fill the places I deleted code. I would sometimes get lazy and fix all of the incorrect formatting after I compile and have a running code. Unfortunately, this means that I cared more about functionality of the program even if it was a little unreadable. However, getting into the habit of using coding standards has allowed me to realize the importance of having a clean and organized code. 
 
 ## ESLint Is Worth It!
 
