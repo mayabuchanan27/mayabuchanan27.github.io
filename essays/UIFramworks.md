@@ -4,7 +4,7 @@ type: essay
 title: "UI Framework"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-12
-published: true
+published: false
 labels:
   - UI Framworks
   - Bootstrap
