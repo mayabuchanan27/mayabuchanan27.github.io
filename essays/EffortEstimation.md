@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "IDPM Effort Estimation and Tracking Experience"
+title: "Effort Estimation and Tracking Experience"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-08
 published: true
