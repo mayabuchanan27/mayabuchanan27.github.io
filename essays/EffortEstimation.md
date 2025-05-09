@@ -10,7 +10,7 @@ labels:
   - Tracking
 ---
 
-<img width="400" height="400" class="rounded float-start pe-4" src="../img/clock.png">
+<img width="400" height="400" class="rounded float-start pe-4" src="../img/clock.jpg">
 
 ## Creating Effort Estimations 
 I made my effort estimates based on the difficulty of the task, how I would complete previous tasks, or if I am able to complete the task in one or multiple sittings. Additionally, I alotted myself a decent amount of time if I knew I had to do some research. In one case, since I knew that I was going to be making two of the same html schedule page, I focused on the basketball page first. Once that was done, I estimated only 10 minutes for the volleyball version because it involved mostly duplicating the existing file and changing labels from "basketball" to "volleyball." On the other hand, when I worked on the Playwright tests, I expected backend issues, so I estimated a longer time knowing I’d run into debugging challenges.
