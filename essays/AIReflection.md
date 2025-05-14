@@ -57,7 +57,8 @@ The use of AI into my learning process in ICS 314 had a significant impact on ho
 
 ## Practical Applications
 Outside of ICS 314 and software engineering, AI has been helpful for me in calculus and sustainability classes for similar reasons. 
-Challenges and Opportunities
+
+## Challenges and Opportunities
 While AI can be a helpful tool, I also found that it limits the learning experience if it is relied on too heavily. One challenge I faced was the temptation to let AI do all the work for me when I was stuck on a problem for a time. It was easy to ask ChatGPT for a solution, but I realized that I wouldnʻt be learning if I was given a complete answer. The opportunity to use AI should be implemented as a source of guidance like in my responses stated above. 
 
 ## Comparative Analysis
