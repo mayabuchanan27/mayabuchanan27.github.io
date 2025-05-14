@@ -12,7 +12,7 @@ labels:
   - Coding Standards 
 ---
 
-<img width="400" height="300" class="rounded float-start pe-4" src="../img/eslint_image.png">
+<img width="400" height="300" class="rounded float-start pe-4" src="../img/SE.jpg">
 
 
 ## Introduction 
