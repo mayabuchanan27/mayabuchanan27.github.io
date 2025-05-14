@@ -16,7 +16,7 @@ labels:
 The role of AI in education has become increasingly prominent in recent years, especially in technical fields like software engineering. This is largely because AI allows students to learn more quickly and efficiently. In software engineering, AI is capable of explaining unfamiliar concepts, pointing out mistakes in code, and offering suggestions that help work progression. However, this makes it possible for students to limit their learning experience by taking advantage of using AI. Throughout my experience in ICS 314, I gradually found myself turning to AI tools, such as ChatGPT and GitHub Copilot, not just as a last resort, but as a consistent part of my learning process. 
 Personal Experience with AI
 
-<img class="rounded float-start pe-4" src="../img/AI.webp">
+<img src="../img/AI.webp" style="display: block; margin: 0 auto;" class="rounded">
 
 ## Personal Experience with AI
 ### In-class Practice WODs / In-class WODs
