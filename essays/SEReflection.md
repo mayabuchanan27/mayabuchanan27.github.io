@@ -12,7 +12,8 @@ labels:
   - Coding Standards 
 ---
 
-<img width="400" height="300" class="rounded float-start pe-4" src="../img/SE.jpg">
+<img style="display: block; margin: 0 auto;" class="rounded" src="../img/SE.jpg">
+
 
 ## Introduction 
 
