@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Habit of Coding Standards"
+title: "Reflecting on My Experience in ICS 314 Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-13
 published: true
@@ -12,7 +12,7 @@ labels:
   - Coding Standards 
 ---
 
-<img width="640" height="300" class="rounded float-start pe-4" src="../img/SE.jpg">
+<img width="400" height="300" class="rounded float-start pe-4" src="../img/SE.jpg">
 
 ## Introduction 
 
