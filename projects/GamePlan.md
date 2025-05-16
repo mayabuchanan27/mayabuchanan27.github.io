@@ -25,4 +25,4 @@ See our deployed version, repository, and organization page.
 <img width="430" height="400" class="rounded float-start" src="../img/basketball.png">
 <img width="430" height="400" class="rounded float-end" src="../img/volleyball.png">
 
-See our deployed version, repository, and organization page.  
+See our [deployed](https://gameplanz.vercel.app/) version, [repository](https://github.com/TheC-es/GamePlan), and [organization](https://thec-es.github.io/) page.  
