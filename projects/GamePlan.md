@@ -23,7 +23,7 @@ The project was completed by dividing the tasks of the project between the five 
 
 ## My Contributions and Experience
 My role in this project was mostly front-end development. I was able to take my teammates' mock drawings and create the HTML version of the Basketball and Volleyball Schedule page using React and Next.js. I was able to make the final version of the web app look more appealing by drawing a logo, using overlay components, adjusting fonts, and improving the structure of the navbar and footer. This was also my first time using Playwright, which I used to test early versions of my pages. Through this experience, I improved my skills in component-based UI development and learned how to translate design concepts into functional code through personal research and applying what I have learned in this class. I also gained valuable experience working on a team since this was my first group project in Computer Science. 
-See our deployed version, repository, and organization page.  
+
 
 <div align="center">
   <img src="../img/basketball.png" alt="Basketball Court Schedule" width="600" height="500" style="margin-right: 10px;"/>
