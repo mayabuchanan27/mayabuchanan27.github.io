@@ -15,7 +15,7 @@ summary: "My team and I developed a Web Application to easily join a basketball 
 GamePlan is a web application that allows UH students to find and join a team or reserve a court time for their group to play basketball or volleyball at UH Mānoa recreation center. Since there are only two courts, the main purpose of GamePlan is to help students have a more organized system when it comes to securing court time, while also giving the opportunity to meet new people. The app consists of pages such as sign in, reservation, schedules for the current day with scores, and schedules for the current week. 
 
 <p align="center">
-  <img src="../img/homepage.png" alt="GamePlan Screenshot" width="600"/>
+  <img src="../img/homepage.png" alt="GamePlan Screenshot" width="700" height="500"/>
 </p>
 
 The project was completed by dividing the tasks of the project between the five people in the team. This was done with issue driven project management through GitHub. We also maintained strong communication using a shared Google Doc and held regular team meetings to check in on progress and resolve problems.
@@ -24,8 +24,8 @@ My role in this project was mostly front-end development. I was able to take my 
 See our deployed version, repository, and organization page.  
 
 <div align="center">
-  <img src="../img/basketball.png" alt="Basketball Court Schedule" width="400" style="margin-right: 10px;"/>
-  <img src="../img/volleyball.png" alt="Volleyball Court Schedule" width="400"/>
+  <img src="../img/basketball.png" alt="Basketball Court Schedule" width="600" height="500" style="margin-right: 10px;"/>
+  <img src="../img/volleyball.png" alt="Volleyball Court Schedule" width="600" height="500"/>
 </div>
 
 See our [deployed](https://gameplanz.vercel.app/) version, [repository](https://github.com/TheC-es/GamePlan), and [organization](https://thec-es.github.io/) page.  
