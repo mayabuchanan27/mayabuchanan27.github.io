@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/GamePlan.jpg
+image: image: <img src="/img/GamePlan.jpg" width="128" height="128" style="object-fit: contain;"/>
 title: GamePlan
 date: 2025
 published: true
