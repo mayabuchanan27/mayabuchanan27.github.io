@@ -14,7 +14,7 @@ summary: "My team and I developed a Web Application to easily join a basketball 
 ---
 GamePlan is a web application that allows UH students to find and join a team or reserve a court time for their group to play basketball or volleyball at UH Mānoa recreation center. Since there are only two courts, the main purpose of GamePlan is to help students have a more organized system when it comes to securing court time, while also giving the opportunity to meet new people. The app consists of pages such as sign in, reservation, schedules for the current day with scores, and schedules for the current week. 
 
-<img style="display: block; margin: 0 auto;" class="rounded" src="../img/homepage.png">
+<img width="430" height="400" class="rounded" src="../img/homepage.png">
 
 The project was completed by dividing the tasks of the project between the five people in the team. This was done with issue driven project management through GitHub. We also maintained strong communication using a shared Google Doc and held regular team meetings to check in on progress and resolve problems.
 
