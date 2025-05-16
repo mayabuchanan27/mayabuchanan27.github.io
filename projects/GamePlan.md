@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/GamePlan.jpg
-title: GamePlan"
+title: GamePlan
 date: 2025
 published: true
 labels:
