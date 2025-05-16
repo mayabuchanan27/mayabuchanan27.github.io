@@ -21,11 +21,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "TypeScript"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Git/GitHub", "UNIX" ]
     }
   ],
   "education": [
@@ -64,7 +64,7 @@
       "startDate": "2025-06-01",
       "endDate": "Present",
       "summary": [
-        "Focuings on researching and designing the foundational elements of an AI-integrated website for Hawaiian knowledge access under graduate student, Maʻemaʻeolehua Matsumoto and professor, Dr. Bryan Kamaoli Kuwada.",
+        "Focuing on researching and designing the foundational elements of an AI-integrated website for Hawaiian knowledge access under graduate student, Maʻemaʻeolehua Matsumoto and professor, Dr. Bryan Kamaoli Kuwada.",
       ]
     },
   ],
